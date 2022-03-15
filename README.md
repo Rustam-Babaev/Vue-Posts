@@ -9,18 +9,18 @@ General description
 **Vue-Posts** - this is a training project for learning Vue, Vuex, Vue-router and other possibilities of Vue.
 
 
-![Alt-текст](https://i.postimg.cc/s1FmbjF2/Vue-Posts.png "header")
+![Alt-текст](https://i.postimg.cc/s1FmbjF2/Vue-Posts.png)
 
-## Использованные технологии
+## Functionality
 
-* Registration
-* Authorization
-* Changing user name and discription
-* Changing user avatar
-* Adding new post with picture and discription
-* Adding and removing like on the posts
-* Ability to view a preview of a post by clicking on the image
-* Exit from the accaunt
+* Get posts from jsonplaceholder
+* Add new posts
+* Delete posts
+* Search posts by key words
+* Filter post by title or descriptions
+* Infinite scrollbar
+* Site navigation
+
 ## Technologies
 
 * HTML
