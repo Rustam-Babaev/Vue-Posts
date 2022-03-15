@@ -1,29 +1,41 @@
-# vue_first_project
+Project Vue-Posts
+==================
 
-## Project setup
-```
-npm install
-```
+The project is completed by **Rustam Babaev**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+General description
+==============
+**Vue-Posts** - this is a training project for learning Vue, Vuex, Vue-router and other possibilities of Vue.
 
-### Run your unit tests
-```
-npm run test:unit
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
+![Alt-текст](https://i.postimg.cc/s1FmbjF2/Vue-Posts.png "header")
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Использованные технологии
+
+* Registration
+* Authorization
+* Changing user name and discription
+* Changing user avatar
+* Adding new post with picture and discription
+* Adding and removing like on the posts
+* Ability to view a preview of a post by clicking on the image
+* Exit from the accaunt
+## Technologies
+
+* HTML
+* CSS
+    * Grid Layout
+    * Flex Layout
+    * Media-queries
+* Javascript
+* Vue
+* Vue-router
+* Vuex
+* Node.js,
+* Git
+* Adaptive and Responsive design
+* GitHub Pages
+
+Ссылка на работу: [Vue-posts](https://rustam-babaev.github.io/Vue-Posts/#/)
+
