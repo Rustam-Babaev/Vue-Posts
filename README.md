@@ -25,17 +25,13 @@ General description
 
 * HTML
 * CSS
-    * Grid Layout
-    * Flex Layout
-    * Media-queries
 * Javascript
 * Vue
 * Vue-router
 * Vuex
-* Node.js,
 * Git
 * Adaptive and Responsive design
 * GitHub Pages
 
-Ссылка на работу: [Vue-posts](https://rustam-babaev.github.io/Vue-Posts/#/)
+Project link: [Vue-posts](https://rustam-babaev.github.io/Vue-Posts/#/)
 
